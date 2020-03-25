@@ -9,8 +9,7 @@
   <license>Clearpath Proprietary</license>
 
   <buildtool_depend>catkin</buildtool_depend>
-  <run_depend>zadig</run_depend>
-  <run_depend>dfu-util</run_depend>
+
   <export>
   </export>
 </package>

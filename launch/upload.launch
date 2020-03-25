@@ -1,3 +1,0 @@
-<launch>
-  <param name="robot_firmware" command="$(find jackal_firmware_ms)/scripts/upload.bat" />
-</launch>
