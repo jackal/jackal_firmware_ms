@@ -2,8 +2,8 @@
 Changelog for package jackal_firmware_ms
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.0 (2020-04-02)
+------------------
 * Minor changes that include:
   - Updated license
   - Reverted version 0.0.0

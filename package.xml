@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>jackal_firmware_ms</name>
-  <version>0.0.0</version>
+  <version>0.1.0</version>
   <description>Jackal's microcontroller firmware for Windows.</description>
 
   <maintainer email="tbaltovski@clearpathrobotics.com">Tony Baltovski</maintainer>
